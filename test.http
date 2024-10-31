@@ -1,0 +1,28 @@
+### Get all students
+GET http://127.0.0.1:5000/students
+
+### Get a student by ID
+GET http://127.0.0.1:5000/students/1
+
+### Create a new student
+POST http://127.0.0.1:5000/students
+Content-Type: application/json
+
+{
+    "name": "Alice",
+    "grade": "A",
+    "email": "alice@example.com"
+}
+
+### Update a student by ID
+PUT http://127.0.0.1:5000/students/1
+Content-Type: application/json
+
+{
+    "name": "Alice Johnson",
+    "grade": "A+",
+    "email": "alice.j@example.com"
+}
+
+### Delete a student by ID
+DELETE http://127.0.0.1:5000/students/1
