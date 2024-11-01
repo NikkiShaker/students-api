@@ -33,8 +33,8 @@ student-crud-api/
 The Environment Configuration:
 
 1. Check if Python is installed by running: python --version
-2. Clone the repository: git clone 
-3. Change into the project directory: cd
+2. Clone the repository: git clone https://github.com/NikkiShaker/students-api.git
+3. Change into the project directory: cd students-api
 4. Install dependencies:
     * pip install flask
     * pip install -r requirements.txt
@@ -46,5 +46,5 @@ The Environment Configuration:
 Run the service:
 
 1. To run the service: python simple_api.py
-2. To test the API, open test.http
+2. To test the API, open test.http and click on 'send requests'
 
