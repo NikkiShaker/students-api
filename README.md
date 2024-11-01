@@ -48,3 +48,4 @@ Run the service:
 1. To run the service: python simple_api.py
 2. To test the API, open test.http and click on 'send requests'
 
+![image](https://github.com/user-attachments/assets/aa9bd143-0165-450f-b089-418a0b8b22f9)
