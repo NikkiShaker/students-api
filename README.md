@@ -32,3 +32,13 @@ student-crud-api/
 
 The Environment Configuration:
 
+1. Check if Python is installed by running: python --version
+2. Clone the repository: git clone 
+3. Change into the project directory: cd
+4. Install dependencies:
+  * pip install flask
+  * pip install -r requirements.txt
+6. Run the application: python app.py
+
+
+Run the service
