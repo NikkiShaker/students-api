@@ -36,9 +36,13 @@ The Environment Configuration:
 2. Clone the repository: git clone 
 3. Change into the project directory: cd
 4. Install dependencies:
-  * pip install flask
-  * pip install -r requirements.txt
+    * pip install flask
+    * pip install -r requirements.txt
 6. Run the application: python app.py
 
 
-Run the service
+Run the service:
+
+1. To run the service: python app.py
+2. To test the API, open test.http
+
