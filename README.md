@@ -38,11 +38,13 @@ The Environment Configuration:
 4. Install dependencies:
     * pip install flask
     * pip install -r requirements.txt
-6. Run the application: python app.py
+6. Run the application:
+     * python simple_api.py (for Windows)
+     * python3 simple_api.py (for Ubuntu)
 
 
 Run the service:
 
-1. To run the service: python app.py
+1. To run the service: python simple_api.py
 2. To test the API, open test.http
 
